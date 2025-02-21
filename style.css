@@ -106,8 +106,8 @@ body{
   }
   .square1{
     background-color:rgba(137, 134, 134, 0.5);
-    text-align: left; 
-    margin-right: 3rem;
+    text-align: center; 
+    margin-right: 1rem;
     height: 160px;
     width: 250px;
     align-items:center; 
@@ -120,6 +120,7 @@ body{
     border: 2px solid white; 
     height: 2rem;
     width: 5rem;
+    text-align: center;
     margin-top: 1rem;
     border-radius: 4rem;
     margin-left: 2rem;
